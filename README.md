@@ -4,7 +4,7 @@
 ![Скриншот сайта Госзакупок с кнопкой "Скачать все файлы"](https://i.ibb.co/Y0Qtx8k/image.png "Скачать все файлы")
 
 
-Авторство иконки плагина:
-Для конечной иконки использовал герб России Coat of Arms of the Russian Federation 2.svg из Wikipedia
-И "кнопку стрелка вниз" из flaticon.com за авторством Anggara.
+<br />
+Авторство иконки плагина:<br />
+Для конечной иконки использовал герб России Coat of Arms of the Russian Federation 2.svg из Wikipedia и "кнопку стрелка вниз" из flaticon.com за авторством Anggara.
 
